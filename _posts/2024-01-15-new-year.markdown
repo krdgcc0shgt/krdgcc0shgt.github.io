@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New year ... no change"
+date:   2024-01-15 14:28:58 +0900
+categories: update
+---
+new year
+spent time with the kids
+
